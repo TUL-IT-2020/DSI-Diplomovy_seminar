@@ -38,7 +38,7 @@ style: |
   }
 ---
 
-# Redundatní uložiště pro CubeSat
+# Redundantní uložiště pro CubeSat
 ## Návrh praktického řešení
 
 <br><br><br>
